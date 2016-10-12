@@ -1,0 +1,44 @@
+		
+		
+		
+		
+		body{
+			
+			
+			font-family:  arial, sans-serif;
+			font-size: 13px;
+			line-height: 1.42857143;
+			color: black;
+			background-image:  url(../img/body.png);
+			text-align:justify;
+			}
+			
+			
+			.input-group .form-control
+			{
+				width: 100px;
+				
+				}
+				
+ 
+ 
+			
+			 input, select, textarea {
+			font-family: inherit;
+			font-size: inherit;
+			line-height: inherit;
+			width: 400px;
+			}
+				
+				
+				
+					
+				
+				
+				
+				.CRT
+				{
+					text-align:center;
+					font-weight:bold;
+				}
+				
